@@ -68,19 +68,6 @@ I'm a **Full Stack Software Developer & Product Engineer** based in Lusaka, Zamb
 | 🏫 [**pestalozzi.lab.setup**](https://github.com/dbwitso/pestalozzi.lab.setup) | PowerShell scripts for setting up lab computers at Pestalozzi | PowerShell |
 | 🤖 [**simple.rag.kyc.api**](https://github.com/dbwitso/simple.rag.kyc.api) | AI-integrated KYC API using RAG + Python | Python |
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Dabwitso's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dbwitso&show_icons=true&theme=tokyo-night&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dbwitso&layout=compact&theme=tokyo-night&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=dbwitso&theme=tokyo-night&hide_border=true)
-
-</div>
 
 ---
 
